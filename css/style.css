@@ -1,0 +1,36 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+     
+}
+.container {
+  width: 1440px;  
+  margin: 0 auto;
+  border: 1px solid red;
+}
+
+.header {
+  border: 1px solid red;  
+
+}
+nav {
+    display:flex;
+    justify-content:space-between ;
+    align-items: center;
+    margin: 24px 60px 0 43px;
+    border: 1px solid red;  
+
+}
+
+.menu_1, .menu_2 {
+list-style: none;
+display: flex;
+align-items: center;
+border: 1px solid red;
+}  
+
+
+.logo{
+
+}
